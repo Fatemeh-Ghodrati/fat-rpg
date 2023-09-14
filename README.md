@@ -10,8 +10,8 @@
 
 ### About me:
 - :woman_student: I'm a student of Amirkabir University of Tehran
-- :woman_technologist: I'm currently learning web developing and want to become a back-end developer
-- :zap: In my free time, learning, exercising and hang out with friends
+- :woman_technologist: I'm currently learning django and want to become a back-end developer
+- :zap: I love being activae and work hard for success
 - :mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](ghodratifatemeh82@gmail.com)
 
 ### :hammer_and_wrench: Languages and Tools :
